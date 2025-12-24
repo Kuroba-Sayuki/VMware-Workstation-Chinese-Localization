@@ -1,0 +1,19 @@
+##############################################################
+# Copyright 2010 VMware, Inc.  All rights reserved. -- VMware Confidential
+##############################################################
+#
+# Traditional Chinese translation catalog.
+#
+# Please follow a few guidelines when editing this file:
+#   . Try to maintain formatting (e.g., indentation and line breaks).
+#   . Avoid long lines by breaking them into multiple lines.
+#   . Catalogs *must* be in UTF-8.
+#   . Try to keep the file sorted by message id.
+#
+
+redirect.logout.message = "VMware Tools 已修改設定，以啟用與主機共用資料。您必須登出才能套用這些設定。按「確定」以立即登出。按「取消」以稍後登出。"
+
+redirect.logout.title = "VMware Tools"
+
+sharedfolders.name = "VMware 共用資料夾"
+

@@ -1,0 +1,20 @@
+##############################################################
+# Copyright 2010 VMware, Inc.  All rights reserved. -- VMware Confidential
+##############################################################
+#
+# Traditional Chinese translation catalog.
+#
+# Please follow a few guidelines when editing this file:
+#   . Try to maintain formatting (e.g., indentation and line breaks).
+#   . Avoid long lines by breaking them into multiple lines.
+#   . Catalogs *must* be in UTF-8.
+#   . Try to keep the file sorted by message id.
+#
+
+displayDPI.logout.caption = "VMware Tools"
+
+displayDPI.logout.message = "VMware Tools 已修改使用者介面大小設定。您必須登出才能套用這些變更。關閉所有應用程式並按「確定」以立即登出，或按「取消」以稍後登出。"
+
+pmtimer.warning.caption = "作業系統組態錯誤"
+
+pmtimer.warning.text = "VMware Tools 服務偵測到此虛擬機器的作業系統組態發生錯誤。Boot.ini 檔案指定 |22/usepmtimer|22 boot 參數。在特定工作負載下，此參數會嚴重降低虛擬機器效能。\n\n請從 Boot.ini 檔案中移除 |22usepmtimer|22 參數，然後重新啟動虛擬機器，以提高虛擬機器效能。\n\n如需其他詳細資料，請參閱 VMware 知識庫 (KB) 文章 KB 1011714。"
