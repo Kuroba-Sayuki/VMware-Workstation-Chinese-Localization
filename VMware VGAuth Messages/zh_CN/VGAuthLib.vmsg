@@ -1,0 +1,15 @@
+##############################################################
+# Copyright (C) 2011-2016 VMware, Inc.  All rights reserved. -- VMware Confidential
+##############################################################
+#
+# Simplified Chinese translation catalog.
+#
+# Please follow a few guidelines when editing this file:
+#   . Try to maintain formatting (e.g., indentation and line breaks).
+#   . Catalogs *must* be in UTF-8.
+#   . Try to keep the file sorted by message id.
+#   . ids use the form filename.object.messagetype
+
+auth.password.invalid = "“%1$s”的用户名和密码不匹配"
+auth.password.valid = "已成功验证“%1$s”的用户名和密码"
+auth.sspi.badid = "尝试使用无效或过期的 SSPI 质询 ID 进行身份验证: %1$u"
