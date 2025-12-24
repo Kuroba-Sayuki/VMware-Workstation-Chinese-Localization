@@ -1,0 +1,2 @@
+*.vmsg linguist-language=C linguist-detectable
+*.dll linguist-language=Cpp linguist-detectable
