@@ -1,6 +1,6 @@
 <h1 align="center">🌏Chinese-Localization🌏</h1>
 
-![Image](https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-Resource/Master/StaticWallpapers/Horizontal/1766562221.jpg)
+![Image](https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-Resource/main/StaticWallpapers/Horizontal/1766562221.jpg)
 
 > [!WARNING]
 > 
